@@ -1,0 +1,10 @@
+{
+  "name": "com.dd_tools.customhierarchy",
+  "version": "0.0.1",
+  "description": "This is a CustomHierarchy Tools",
+  "displayName": "CustomHierarchy",
+  "author": {
+    "name": "DD_Tools"
+  },
+  "type": "tool"
+}
